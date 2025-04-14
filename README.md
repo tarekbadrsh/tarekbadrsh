@@ -5,18 +5,6 @@
 <img alt="welcome photo" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 <br/>
 </p>
-<!-- START -->
-
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tarekbadrshalaan&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
-
-
-- 🔭 I’m currently working as Car Maker at Polestar <img style="width: 30px;" alt="Polestar" src="https://listcarbrands.com/wp-content/uploads/2017/10/Logo-Polestar.png" /> 
-- 👯 I’m looking to collaborate on [ipfs/kubo](https://github.com/ipfs/kubo)
-- 🤔 I’m looking for help with [modelgen](https://github.com/tarekbadrshalaan/modelgen) 
-- 💬 Ask me about [golang](https://go.dev/)
-- 📫 How to reach me: [twitter/tarekbadrsh](https://twitter.com/tarekbadrsh)
-- ⚡ Fun fact: I like to [dance bachata](https://www.youtube.com/watch?v=iQw5I85dkO8) 🕺💃
-
 <!-- contribution  snake -->  
 <p align="center">
     <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-snake.svg" />
